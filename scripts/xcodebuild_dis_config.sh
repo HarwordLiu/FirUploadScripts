@@ -22,7 +22,6 @@ out_base_path="xcode_build_ipa_dis"
 out_path=${work_path}/${out_base_path}/${out_sub_path}
 mkdir -p ${out_path}
 
-api_token="e7c37e320301c01139325520dfa3fcb4"
 
 if [[ -s "$HOME/.rvm/scripts/rvm" ]] ; then
     source $HOME/.rvm/scripts/rvm
