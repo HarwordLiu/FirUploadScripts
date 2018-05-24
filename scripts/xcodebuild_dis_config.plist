@@ -6,5 +6,10 @@
 	<string>Your development team ID</string>
 	<key>method</key>
 	<string>ad-hoc</string>
+	<key>provisioningProfiles</key>
+	<dict>
+		<key>Your Bundle ID</key>
+		<string>Your Profile Name</string>
+	</dict>
 </dict>
 </plist>
